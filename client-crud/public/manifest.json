@@ -1,0 +1,8 @@
+{
+  "short_name": "CRUD App",
+  "name": "CRUD App",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
